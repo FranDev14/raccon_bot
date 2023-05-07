@@ -1,0 +1,5 @@
+{
+    "token":"token",
+    "logger_channel":"log_channel_id",
+    "bot_prefix":"+"
+}

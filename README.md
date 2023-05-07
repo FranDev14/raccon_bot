@@ -1,2 +1,2 @@
 # raccon_bot
-A free multiporpouse discord bot for server administration
+A free multipurpose discord bot for server administration

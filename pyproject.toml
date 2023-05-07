@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "racoon bot"
+version = "0.1.0"
+description = "A free multiporpouse discord bot for server administration"
+authors = ["Xavy"]
+license = "GNU"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+py-cord = {extras = ["speed", "voice"], version = "^2.4.1"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
